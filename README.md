@@ -1,3 +1,4 @@
+# Metaproteome_FRp
 ## Li and Wang et al., Revealing Proteome-Level Functional Redundancy in the Human Gut Microbiome using Ultra-deep Metaproteomics
 
 ## This repository is a series of python codes to:
@@ -17,4 +18,4 @@
 1) Download data, example outputs and codes in this repository.
 2) Open Ultra_deep_MetaPro_IQ.ipynb using Jupyter Notebook.
 3) Follow the steps to run through generating PCN, calculating degree distribution, functional distance and functional redundancy. The output will overwrite example outputs unless saved to new directories.
-4) Besides, R codes for computing nestedness (./2_data_processing/1_PCN/Nestedness/) and visualize degree distribution  (./2_data_processing/2_Degree_distribution/) are provided.# Metaproteome_FRp
+4) Besides, R codes for computing nestedness (./2_data_processing/1_PCN/Nestedness/) and visualize degree distribution  (./2_data_processing/2_Degree_distribution/) are provided.
