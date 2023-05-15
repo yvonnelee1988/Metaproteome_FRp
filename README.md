@@ -5,7 +5,7 @@
 2) Compute degree distribution, functional distance and functional redundancy of the PCNs.
 
 ## Original dataset and example output
-1) The original dataset is given in "1_database_search_results/".
+1) The original dataset is given in "1_database_search_results/". Decompress any .zip files.
 2) Example outputs are given in "2_data_processing/".
 
 ## System requirements:
@@ -17,4 +17,4 @@
 1) Download data, example outputs and codes in this repository.
 2) Open Ultra_deep_MetaPro_IQ.ipynb using Jupyter Notebook.
 3) Follow the steps to run through generating PCN, calculating degree distribution, functional distance and functional redundancy. The output will overwrite example outputs unless saved to new directories.
-4) Besides, R codes for computing nestedness (~/2_data_processing/1_PCN/Nestedness/) and visualize degree distribution  (~/2_data_processing/2_Degree_distribution/) are provided.# Metaproteome_FRp
+4) Besides, R codes for computing nestedness (./2_data_processing/1_PCN/Nestedness/) and visualize degree distribution  (./2_data_processing/2_Degree_distribution/) are provided.# Metaproteome_FRp
