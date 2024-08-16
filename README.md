@@ -1,5 +1,5 @@
 # Metaproteome_FRp
-Li and Wang et al., Revealing Proteome-Level Functional Redundancy in the Human Gut Microbiome using Ultra-deep Metaproteomics
+Li L, Wang T, Ning Z, Zhang X, Butcher J, Serrana JM, Simopoulos CMA, Mayne J, Stintzi A, Mack DR, Liu YY, Figeys D. Revealing proteome-level functional redundancy in the human gut microbiome using ultra-deep metaproteomics. Nat Commun. 2023 Jun 10;14(1):3428. doi: 10.1038/s41467-023-39149-2. PMID: 37301875; PMCID: PMC10257714.
 
 ## This repository is a series of python codes to:
 1) Generate protein-content networks from ultra-deep metaproteomcis data based on the protein-peptide bridge approach.
